@@ -19,7 +19,7 @@
 | 03 |2019-03-28|동적계획법|류상수|[link](https://github.com/sat-algorithm-study/presentation/blob/master/thursday/190328%20Dynamic%20Programming.pptx)|
 | 04 |2019-04-04|삼성 역량테스트 A형 대비|김정호|[link](https://github.com/sat-algorithm-study/presentation/blob/master/thursday/190404%20%EC%82%BC%EC%84%B1%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%8C%80%EB%B9%84.pptx)|
 | 05 |2019-04-11|BFS|강민창|[link](https://github.com/sat-algorithm-study/presentation/blob/master/thursday/190411%20BFS.pptx)|
-
+| 05 |2019-05-02|Greedy|박희망|[link](https://github.com/sat-algorithm-study/presentation/blob/master/thursday/190502%20SAT%20Greedy.pptx)|
 
 ## Note
 
