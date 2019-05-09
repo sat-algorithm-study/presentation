@@ -8,7 +8,7 @@
 | 02 |2019-03-19|브루트포스|추교준|[link](https://github.com/sat-algorithm-study/presentation/blob/master/tuesday/190319%20Brute%20force.pptx)|
 | 03 |2019-03-26|재귀함수|황일용|[link](https://github.com/sat-algorithm-study/presentation/blob/master/tuesday/190326%20Recursive%20function.pptx)|
 | 04 |2019-04-02|분할정복|추교준|[link](https://github.com/sat-algorithm-study/presentation/blob/master/tuesday/190402%20Divide%20and%20conquer.pptx)|
-| 05 |2019-05-07|조합탐색|김태성|[link](https://github.com/sat-algorithm-study/presentation/blob/master/tuesday/190509%20%EC%A1%B0%ED%95%A9%ED%83%90%EC%83%89.pptx)|
+| 05 |2019-05-07|조합탐색|김태성|[link](https://github.com/sat-algorithm-study/presentation/blob/master/tuesday/190507%20%EC%A1%B0%ED%95%A9%ED%83%90%EC%83%89.pptx)|
 
 
 ## Seminar list (목요일 반)
